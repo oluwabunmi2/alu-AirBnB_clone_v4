@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Scrip that starts a Flask Web Application """
+""" Script that starts a Flask Web Application """
 from models import storage
 from models.state import State
 from models.city import City
